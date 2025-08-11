@@ -1,0 +1,14 @@
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\bin\Debug\net8.0\Question10.exe
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\bin\Debug\net8.0\Question10.deps.json
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\bin\Debug\net8.0\Question10.runtimeconfig.json
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\bin\Debug\net8.0\Question10.dll
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\bin\Debug\net8.0\Question10.pdb
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\obj\Debug\net8.0\Question10.GeneratedMSBuildEditorConfig.editorconfig
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\obj\Debug\net8.0\Question10.AssemblyInfoInputs.cache
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\obj\Debug\net8.0\Question10.AssemblyInfo.cs
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\obj\Debug\net8.0\Question10.csproj.CoreCompileInputs.cache
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\obj\Debug\net8.0\Question10.dll
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\obj\Debug\net8.0\refint\Question10.dll
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\obj\Debug\net8.0\Question10.pdb
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\obj\Debug\net8.0\Question10.genruntimeconfig.cache
+D:\cgi\Week4CodingAssessment\solution1,6,10\Question10\obj\Debug\net8.0\ref\Question10.dll

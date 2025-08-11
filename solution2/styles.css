@@ -1,0 +1,15 @@
+
+
+.banner {
+    width: 960px;
+    height: 275px;
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+}
+
+.navbar {
+    margin: 0 15px;
+    text-decoration: none;
+    color: blue;
+}
