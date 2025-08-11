@@ -56,14 +56,38 @@
         static void Main(string[] args)
         {
             Stack s = new Stack();
-            s.Push(1);
-            s.Push(2);
-            s.Push(3);
-            Console.WriteLine("Stack:");
-            s.Display();
-            s.Pop();
-            Console.WriteLine("After Pop:");
-            s.Display();
+            int choice;
+            do
+            {
+                Console.WriteLine("\n--- Stack Menu ---");
+                Console.WriteLine("1. Push");
+                Console.WriteLine("2. Pop");
+                Console.WriteLine("3. Display");
+                Console.WriteLine("4. Exit");
+                Console.Write("Enter choice: ");
+                choice = int.Parse(Console.ReadLine());
+
+                switch (choice)
+                {
+                    case 1:
+                        Console.Write("Enter value to push: ");
+                        int val = int.Parse(Console.ReadLine());
+                        s.Push(val);
+                        break;
+                    case 2:
+                        s.Pop();
+                        break;
+                    case 3:
+                        s.Display();
+                        break;
+                    case 4:
+                        Console.WriteLine("Exiting...");
+                        break;
+                    default:
+                        Console.WriteLine("Invalid choice, try again.");
+                        break;
+                }
+            } while (choice != 4);
         }
     }
 }

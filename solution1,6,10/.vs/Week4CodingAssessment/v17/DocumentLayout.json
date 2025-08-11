@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\cgi\\Week4CodingAssessment\\solution1,6,10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F4EEF8F-0B8A-46B8-91FD-138ABEF2A390}|Question6\\Question6.csproj|d:\\cgi\\week4codingassessment\\solution1,6,10\\question6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F4EEF8F-0B8A-46B8-91FD-138ABEF2A390}|Question6\\Question6.csproj|solutionrelative:question6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AF9AC833-23DF-4914-9E0F-7F08E8072F66}|Question10\\Question10.csproj|d:\\cgi\\week4codingassessment\\solution1,6,10\\question10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF9AC833-23DF-4914-9E0F-7F08E8072F66}|Question10\\Question10.csproj|solutionrelative:question10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4EEF8F-0B8A-46B8-91FD-138ABEF2A390}|Question6\\Question6.csproj|d:\\cgi\\week4codingassessment\\solution1,6,10\\question6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4EEF8F-0B8A-46B8-91FD-138ABEF2A390}|Question6\\Question6.csproj|solutionrelative:question6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59C0F7D7-61DF-49B4-A10B-D15D714FFEE3}|Question1\\Question1.csproj|d:\\cgi\\week4codingassessment\\solution1,6,10\\question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\cgi\\Week4CodingAssessment\\solution1,6,10\\Question10\\Program.cs",
               "RelativeDocumentMoniker": "Question10\\Program.cs",
               "ToolTip": "D:\\cgi\\Week4CodingAssessment\\solution1,6,10\\Question10\\Program.cs",
               "RelativeToolTip": "Question10\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAswAoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAYwFkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T09:38:27.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\cgi\\Week4CodingAssessment\\solution1,6,10\\Question6\\Program.cs",
               "RelativeDocumentMoniker": "Question6\\Program.cs",
               "ToolTip": "D:\\cgi\\Week4CodingAssessment\\solution1,6,10\\Question6\\Program.cs",
               "RelativeToolTip": "Question6\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwEgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T09:33:24.907Z",
               "EditorCaption": ""
@@ -60,8 +60,7 @@
               "RelativeToolTip": "Question1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAL0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T09:15:24.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T09:15:24.932Z"
             }
           ]
         }

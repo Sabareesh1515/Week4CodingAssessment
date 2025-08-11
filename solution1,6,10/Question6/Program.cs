@@ -61,14 +61,38 @@
         static void Main(string[] args)
         {
             Queue q = new Queue();
-            q.Insert(10);
-            q.Insert(20);
-            q.Insert(30);
-            Console.WriteLine("Queue:");
-            q.Display();
-            q.Delete();
-            Console.WriteLine("After Deletion:");
-            q.Display();
+            int choice;
+            do
+            {
+                Console.WriteLine("\n--- Queue Menu ---");
+                Console.WriteLine("1. Insert");
+                Console.WriteLine("2. Delete");
+                Console.WriteLine("3. Display");
+                Console.WriteLine("4. Exit");
+                Console.Write("Enter choice: ");
+                choice = int.Parse(Console.ReadLine());
+
+                switch (choice)
+                {
+                    case 1:
+                        Console.Write("Enter value to insert: ");
+                        int val = int.Parse(Console.ReadLine());
+                        q.Insert(val);
+                        break;
+                    case 2:
+                        q.Delete();
+                        break;
+                    case 3:
+                        q.Display();
+                        break;
+                    case 4:
+                        Console.WriteLine("Exiting...");
+                        break;
+                    default:
+                        Console.WriteLine("Invalid choice, try again.");
+                        break;
+                }
+            } while (choice != 4);
         }
     }
 }
